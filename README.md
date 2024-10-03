@@ -3,6 +3,8 @@
 
 **Chat with DB** is an application designed to interact with different relational databases through a chatbot powered by large language models (LLM). The user-friendly Streamlit interface allows you to connect, make queries in natural language, and manage multiple connections seamlessly.
 
+![Chat with DB](https://glombardo.xyz/img/chatwithdb.webp)
+
 ## Key Features
 
 - **Multiple connections**: Create and maintain connections with different relational databases simultaneously.
